@@ -193,7 +193,7 @@ flutter run
 ## 🔄 Alur Aplikasi
 
 ```mermaid
-graph TD
+
     A[Splash Screen] -->|3 detik| B[Home Screen]
     B -->|Tap Mulai Scan| C[Scan Screen]
     C -->|Inisialisasi Kamera| D[Kamera Aktif]
@@ -396,27 +396,3 @@ flutter run
 
 ---
 
-## 👨‍💻 Informasi Pengembang
-
-**Nama:** Afgan Galih Fauz Amjad Amadinah  
-**NIM:** 2341760004  
-**Program Studi:** [Sesuaikan dengan prodi Anda]  
-
-
-
-
----
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan pembelajaran di Politeknik Negeri Malang.
-
----
-
-<div align="center">
-
-**⭐ Terima kasih telah menggunakan aplikasi OCR Sederhana! ⭐**
-
-Made with ❤️ using Flutter & ML Kit
-
-</div>
