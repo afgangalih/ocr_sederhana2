@@ -396,3 +396,25 @@ flutter run
 
 ---
 
+## 📷 Dokumentasi Output UTS
+
+
+### Home Screen
+
+![Screenshot ocr_sederhana2](images/menu_utama_uts.png)
+
+Menu utama untuk memulai pemindaian teks.
+
+### Scan Screen
+
+![Screenshot ocr_sederhana2](images/kamera_uts.png)
+
+Tampilan kamera untuk mengambil gambar teks.
+
+### Result Screen
+
+![Screenshot ocr_sederhana2](images/output_uts.png)
+Hasil teks dari proses OCR.
+
+---
+
